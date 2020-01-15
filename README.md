@@ -14,7 +14,4 @@ Technical Analysis Theory from Chan
 - 个级别中枢
 - 走势类型
 
-1. 分型
-1.1 分型定义（适合任何周期K线图）
-
 
